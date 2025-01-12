@@ -1,0 +1,26 @@
+/* Стилі для галереї */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .gallery li {
+    list-style: none;
+  }
+  
+  .gallery img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  /* Стилі для зміни кольору фону */
+  .widget {
+    margin-top: 20px;
+  }
+  
+  .color {
+    font-weight: bold;
+  }
+  
