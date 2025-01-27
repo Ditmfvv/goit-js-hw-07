@@ -1,0 +1,3 @@
+[submodule "libs/goit-js-hw-07"]
+	path = libs/goit-js-hw-07
+	url = https://github.com/Ditmfvv/goit-js-hw-07.git
