@@ -1,0 +1,14 @@
+.gallery {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
+img {
+    display: block;
+}
+
+.gallery li img {
+    width: 360px;
+    height: 300px;
+}
